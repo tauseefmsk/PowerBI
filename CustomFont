@@ -1,0 +1,10 @@
+{
+"name":"GraphikFont",
+"visualStyles":{
+    "*":{
+        "*":{
+          "*":[{"fontFamily":"Algerian","titleFontFamily":"Algerian","secFontFamily":"Algerian","secTitleFontFamily":"Algerian","color":{"solid":{}}}]
+            }
+        }
+  }
+}
