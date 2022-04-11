@@ -1,1 +1,20 @@
-﻿{"name":"GraphikFont","visualStyles":{"*":{"*":{"*":[{"fontFamily":"Graphik","titleFontFamily":"Graphik","secFontFamily":"Graphik","secTitleFontFamily":"Graphik","color":{"solid":{}}}]}}}}
+{
+    "name": "GraphikFont",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "*": [
+                    {
+                        "fontFamily": "Graphik",
+                        "titleFontFamily": "Graphik",
+                        "secFontFamily": "Graphik",
+                        "secTitleFontFamily": "Graphik",
+                        "color": {
+                            "solid": {}
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
